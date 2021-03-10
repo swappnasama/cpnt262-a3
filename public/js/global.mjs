@@ -1,4 +1,4 @@
-"use strict";
+
 //importing galleryImages module
 import {galleryImages} from './galleryImages.mjs';
 
